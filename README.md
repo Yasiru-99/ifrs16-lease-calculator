@@ -38,8 +38,7 @@ This application automates key IFRS 16 calculations, including lease liability m
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/ifrs16-lease-calculator.git
-cd ifrs16-lease-calculator
+git clone https://github.com/Yasiru-99/ifrs16-lease-calculator
 ```
 
 Install dependencies:
@@ -56,7 +55,7 @@ streamlit run app.py
 
 ## 🌐 Live Application
 
-[Add your Streamlit deployment link here]
+https://ifrs16-lease-calculator-cpkw6xvdtvszmuplfj3xwr.streamlit.app/
 
 ## 📊 Use Cases
 
