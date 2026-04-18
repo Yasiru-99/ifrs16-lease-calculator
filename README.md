@@ -51,6 +51,7 @@ https://ifrs16-lease-calculator-cpkw6xvdtvszmuplfj3xwr.streamlit.app/
 
 ## ⚠️ Disclaimer
 This tool is intended for educational and support purposes. Users should apply professional judgment and ensure compliance with applicable accounting standards when using the outputs.
+Artifical Intellegence (AI) used to clear the code and add more clear comments for the purpose of users. 
 
 ## 🤝 Contributions
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
