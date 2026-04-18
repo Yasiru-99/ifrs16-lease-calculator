@@ -56,4 +56,4 @@ This tool is intended for educational and support purposes. Users should apply p
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
 
 ## 📧 Contact
-For feedback or collaboration, connect via LinkedIn: https://www.linkedin.com/in/yenuka-yasiru-samarawickrama-a212a1185/ or raise an issue in this repository.
+For feedback or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yenuka-yasiru-samarawickrama-a212a1185/) or raise an issue in this repository.
